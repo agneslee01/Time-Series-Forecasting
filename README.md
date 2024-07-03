@@ -1,0 +1,1 @@
+Time series forecasting for quarterly (chain volume) gross domestic product (QGDP) for Local Government Administration industry group in New Zealand. This project involves building ETS and ARIMA models, and produce forecast for the next 8 quarters.
